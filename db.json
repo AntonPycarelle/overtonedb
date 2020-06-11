@@ -1,22 +1,48 @@
 {
-  "drinks": [
+  "projecten": [
     {
       "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
       "name": "Cola",
-      "price": "2.5",
+      "image": "/project1.png",
       "text": "blablabla",
       "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
     },
     {
       "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
       "name": "Pils",
-      "price": "2",
+      "image": "/project1.png",
       "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
     },
     {
+      "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
+      "name": "Cola",
+      "image": "/project1.png",
+      "text": "blablabla",
+      "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
+    },
+    {
+      "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
+      "name": "Pils",
+      "image": "/project1.png",
+      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
+    },
+    {
+      "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
+      "name": "Cola",
+      "image": "/project1.png",
+      "text": "blablabla",
+      "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
+    },
+    {
+      "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
+      "name": "Pils",
+      "image": "/project1.png",
+      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
+    },    
+    {
       "id": "cf4edc92-9287-4d95-ab3f-09578d50f3da",
       "name": "Omer",
-      "price": "4",
+      "image": "/project1.png",
       "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
     }
   ],
