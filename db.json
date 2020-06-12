@@ -3,13 +3,9 @@
     {
       "id": "aspifuif-2020",
       "name": "Aspifuif 2020",
-      "thumb": "/images/aspi/1.jpg",
       "images": [
-        {"thumb": "/images/aspi/1.jpg"}
-        
+        "/images/aspi/1.jpg"
         ],
-      
-   
       "text": "New year, new edition of Aspifuif! 👌",
       "behance": "",
       "links": [
@@ -22,7 +18,6 @@
     {
       "id": "the-hive",
       "name": "The Hive",
-      "thumb": "/images/hive/1.jpg",
       "images": [
         "/images/hive/1.jpg",
         "/images/hive/2.jpg",
@@ -41,6 +36,139 @@
         "link": "https://www.facebook.com/events/1176740176047477/"
       }
       ]
+    },
+    {
+      "id": "aswlf",
+      "name": "Aesthetic Wolf",
+      "images": [
+        "/images/aswlf/aswlf1.jpg",
+        "/images/aswlf/aswlf2.jpg"
+        ],
+      
+   
+      "text": "We made the brand new logo for Aesthetic Wolf! Check out their merch!",
+      "behance": "",
+      "links": [
+      {
+        "title": "Aesthetic Wolf",
+        "link": "https://www.aestheticwolf.com/"
+      }
+      ]
+    },
+    {
+      "id": "badmintonshop",
+      "name": "Bart Verlinde: Badmintonshop",
+      "images": [
+        "/images/badminton/badminton1.jpg",
+        "/images/badminton/badminton2.jpg",
+        "/images/badminton/badminton3.jpg"
+        ],
+      
+   
+      "text": "Another fun project! We made this eye catching new logo with great pleasure!",
+      "behance": "https://www.behance.net/gallery/77807305/Logo-Badmintonshop",
+      "links": []
+    },
+    {
+      "id": "bizon",
+      "name": "Bizon: Consulting Bvba",
+      "images": [
+        "/images/bizon/bizon1.jpg",
+        "/images/bizon/bizon2.jpg"
+        ],
+      
+   
+      "text": "One of our latest projects! The brand new logo for Bizon Consulting.",
+      "behance": "https://www.behance.net/gallery/77805659/Logo-Bizon-Consulting",
+      "links": []
+    },
+    {
+      "id": "corilus",
+      "name": "Corilus",
+      "images": [
+        "/images/corilus/corilus1.jpg"
+        ],
+      
+   
+      "text": "Nog een leuk project met Corilus!",
+      "behance": "https://www.behance.net/gallery/77802549/One-pager-Corilus",
+      "links": [
+              {
+        "title": "Corilus Website",
+        "link": "http://www.coriluseeklo.be/"
+      }
+        ]
+    },
+    {
+      "id": "feyo",
+      "name": "Geboortekaartje Feyo",
+      "images": [
+        "/images/feyo/feyo.jpg"
+        ],
+      
+   
+      "text": "Een tof project voor Feyo!",
+      "behance": "",
+      "links": []
+    },
+    {
+      "id": "hive",
+      "name": "The Hive: Teachers Collective",
+      "images": [
+        "/images/hive/1.jpg",
+        "/images/hive/2.jpg",
+        "/images/hive/3.jpg",
+        "/images/hive/4.jpg",
+        "/images/hive/5.jpg"
+        ],
+      
+   
+      "text": "Full Branding",
+      "behance": "https://www.behance.net/gallery/88046491/Full-branding-Teachers-Collective",
+      "links": [
+              {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/The-Hive-Teachers-Collective-108002190842699"
+      }
+      ]
+    },
+    {
+      "id": "ondernemend-gullegem",
+      "name": "Ondernemend Gullegem",
+      "images": [
+        "/images/og/og1.jpg",
+        "/images/og/og2.jpg",
+        "/images/og/og3.jpg",
+        "/images/og/og4.jpg"
+        ],
+      
+   
+      "text": "Logo-design",
+      "behance": "https://www.behance.net/gallery/93600057/Logo-Ondernemend-Gullegem",
+      "links": [
+              {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/Ondernemendgullegem"
+      }
+      ]
+    },
+    {
+      "id": "laser-line",
+      "name": "Laser-line",
+      "images": [
+        "/images/oksel/oksel1.jpg",
+        "/images/oksel/oksel2.jpg"
+        ],
+      "text": "Promitionele Poster Design"
+    },
+    {
+      "id": "stef-debonne",
+      "name": "Stef Debonne Bussiness Card",
+      "images": [
+        "/images/stef-debonne/stef-debonne1.jpg",
+        "/images/stef-debonne/stef-debonne2.jpg"
+        ],
+      "text": "Bussiness Card"
     }
   ]
 }
