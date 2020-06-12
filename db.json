@@ -1,59 +1,44 @@
 {
   "projecten": [
     {
-      "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
-      "name": "Cola",
-      "image": "/project1.png",
-      "text": "blablabla",
-      "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
+      "id": "aspifuif-2020",
+      "name": "Aspifuif 2020",
+      "images": [
+        {"thumb": "/images/aspi/1.jpg"}
+        
+        ],
+      
+   
+      "text": "New year, new edition of Aspifuif! 👌",
+      "behance": "",
+      "links": [
+      {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/events/1176740176047477/"
+      }
+      ]
     },
     {
-      "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
-      "name": "Pils",
-      "image": "/project1.png",
-      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
-    },
-    {
-      "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
-      "name": "Cola",
-      "image": "/project1.png",
-      "text": "blablabla",
-      "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
-    },
-    {
-      "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
-      "name": "Pils",
-      "image": "/project1.png",
-      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
-    },
-    {
-      "id": "64d7eaa3-21b6-43be-9e63-e5400ddd02a3",
-      "name": "Cola",
-      "image": "/project1.png",
-      "text": "blablabla",
-      "categoryId": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498"
-    },
-    {
-      "id": "12532bfa-3682-41f9-a9a4-86ea8652716c",
-      "name": "Pils",
-      "image": "/project1.png",
-      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
-    },    
-    {
-      "id": "cf4edc92-9287-4d95-ab3f-09578d50f3da",
-      "name": "Omer",
-      "image": "/project1.png",
-      "categoryId": "3fca3d18-8cd4-435d-ae7d-270077628561"
-    }
-  ],
-  "categories": [
-    {
-      "id": "2dfa9678-2bdf-4eef-a70f-e3a5b34fa498",
-      "name": "Frisdrank"
-    },
-    {
-      "id": "3fca3d18-8cd4-435d-ae7d-270077628561",
-      "name": "Bier"
+      "id": "the-hive",
+      "name": "The Hive",
+      "images": [
+        {"thumb": "/images/hive/1.jpg"},
+        "/images/hive/2.jpg",
+        "/images/hive/3.jpg",
+        "/images/hive/4.jpg",
+        "/images/hive/5.jpg"
+        
+        ],
+      
+   
+      "text": "New brand for a great upcoming company! The Hive Teachers Collective gives you the best personal private lessons!",
+      "behance": "",
+      "links": [
+      {
+        "title": "Facebook",
+        "link": "https://www.facebook.com/events/1176740176047477/"
+      }
+      ]
     }
   ]
 }
