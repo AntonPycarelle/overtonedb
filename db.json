@@ -112,27 +112,6 @@
       "links": []
     },
     {
-      "id": "hive",
-      "name": "The Hive: Teachers Collective",
-      "images": [
-        "/images/hive/1.jpg",
-        "/images/hive/2.jpg",
-        "/images/hive/3.jpg",
-        "/images/hive/4.jpg",
-        "/images/hive/5.jpg"
-        ],
-      
-   
-      "text": "Full Branding",
-      "behance": "https://www.behance.net/gallery/88046491/Full-branding-Teachers-Collective",
-      "links": [
-              {
-        "title": "Facebook",
-        "link": "https://www.facebook.com/The-Hive-Teachers-Collective-108002190842699"
-      }
-      ]
-    },
-    {
       "id": "ondernemend-gullegem",
       "name": "Ondernemend Gullegem",
       "images": [
