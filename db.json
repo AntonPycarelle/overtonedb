@@ -3,6 +3,7 @@
     {
       "id": "aspifuif-2020",
       "name": "Aspifuif 2020",
+      "thumb": "/images/aspi/1.jpg",
       "images": [
         {"thumb": "/images/aspi/1.jpg"}
         
@@ -21,8 +22,9 @@
     {
       "id": "the-hive",
       "name": "The Hive",
+      "thumb": "/images/hive/1.jpg",
       "images": [
-        {"thumb": "/images/hive/1.jpg"},
+        "/images/hive/1.jpg",
         "/images/hive/2.jpg",
         "/images/hive/3.jpg",
         "/images/hive/4.jpg",
